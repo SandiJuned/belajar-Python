@@ -15,8 +15,9 @@ Python adalah bahasa yang mudah di pelajari dengan beragam library yang bisa kit
 Catatan ini bisa kalian download dan edit untuk kalian pelajari sendiri. Tentunya catatan ini jauh dari kata sempurna, dan akan terus saya edit seiring waktu sejalan dengan menambahkannya pengetahuan saya. 
 
 ## Daftar Isi
-- **[Python Dasar](#)**
-  - [hello_world.py](#), program python sederhana.
+- **[Python Dasar](/dasar-python)**
+  - [hello_world.py](/dasar-python/hello-world.py), program python sederhana.
+  - [Variable](/dasar-python/variable.py) , Variable dalam bahasa python. 
 
 ## Lisensi
 Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
