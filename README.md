@@ -1,4 +1,9 @@
-# Belajar python
+Catatan Belajar Python
+
+![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
+![Status Proyek](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 ![Funny Cat](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b9521byhprcjaru9cjxxqq5ayq0mgmkdjrg31qaii2h8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
